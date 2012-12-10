@@ -69,3 +69,10 @@ rm %{buildroot}/%{_docdir}/%{name}/bfast-book.pdf
 %{_bindir}/btestindexes
 %{_bindir}/ill2fastq.pl
 %{_bindir}/solid2fastq
+
+
+%changelog
+* Mon Nov 28 2011 Alexander Khrukin <akhrukin@mandriva.org> 0.7.0a-1
++ Revision: 734971
+- imported package bfast
+
