@@ -1,6 +1,6 @@
 Name:		bfast
 Version:	0.7.0a
-Release:	1
+Release:	2
 Summary:	Blat-like Fast Accurate Search Tool
 
 Group:		Sciences/Physics
