@@ -17,7 +17,8 @@ reference sequences.  Some advantages of BFAST include:
 
 Speed: enables billions of short reads to be mapped quickly.
 
-Accuracy: A priori probabilities for mapping reads with defined set of variants.
+Accuracy: A priori probabilities for mapping reads with defined set of
+variants.
 
 An easy way to measurably tune accuracy at the expense of speed.
 
