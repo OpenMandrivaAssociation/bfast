@@ -5,7 +5,7 @@ Summary:	Blat-like Fast Accurate Search Tool
 
 Group:		Sciences/Physics
 License:	GPLv2 and MIT
-URL:		http://bfast.sourceforge.net
+URL:		https://bfast.sourceforge.net
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 
 BuildRequires:	zlib-devel bzip2-devel
